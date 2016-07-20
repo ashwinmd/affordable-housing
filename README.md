@@ -8,6 +8,8 @@ Eclipse For Python
 
 # Dependencies #
 
+Install the usaddress python library to parse address strings - pip install usaddress
+
 usaddress(https://pypi.python.org/pypi/usaddress)
 
 # Resources #
