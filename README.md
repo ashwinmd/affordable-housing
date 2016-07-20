@@ -20,7 +20,9 @@ Code Enforcer link - http://www3.sanjoseca.gov/codeEnforcement/cets/form_index.a
 #Open issues#
 
 All the addresses do not conform to the US address conventions. Their format differs so we are unable to identify the Street Direction accurately.
+
 Cannot access the code enforcer url via javascript because of CORS issues.
+
 CURL posts to the code enforcer url work fine.
 
 
