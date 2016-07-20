@@ -16,6 +16,13 @@ San Jose affordable-housing datasets - PublishAffordableExcelCSV.csv
 
 Code Enforcer link - http://www3.sanjoseca.gov/codeEnforcement/cets/form_index.asp
 
+# How to run this app #
+python CSVToHTMLConverter.py PublishAffordableExcelCSV.csv <name of the html output file>
+
+Example :
+python CSVToHTMLConverter.py PublishAffordableExcelCSV.csv housing.html
+
+The resulting html file will contain an html table with the property listings.
 
 #Open issues#
 
